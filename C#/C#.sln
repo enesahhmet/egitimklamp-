@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_DERS1", "C#_DERS1\C#_DERS1.csproj", "{48DFB0A2-FBA8-4008-A1EB-04C7FBA6BF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders_2", "ders_2\ders_2.csproj", "{3FCFBE36-FBAD-4F76-AAF1-2E8268471140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DFB0A2-FBA8-4008-A1EB-04C7FBA6BF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DFB0A2-FBA8-4008-A1EB-04C7FBA6BF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DFB0A2-FBA8-4008-A1EB-04C7FBA6BF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DFB0A2-FBA8-4008-A1EB-04C7FBA6BF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCFBE36-FBAD-4F76-AAF1-2E8268471140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCFBE36-FBAD-4F76-AAF1-2E8268471140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCFBE36-FBAD-4F76-AAF1-2E8268471140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCFBE36-FBAD-4F76-AAF1-2E8268471140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83CC79F-49BF-4AC4-98CB-E73993E676D3}
+	EndGlobalSection
+EndGlobal

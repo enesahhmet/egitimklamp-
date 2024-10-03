@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\C#\ders_2\bin\Debug\ders_2.exe.config
+C:\Users\LENOVO\source\repos\C#\ders_2\bin\Debug\ders_2.exe
+C:\Users\LENOVO\source\repos\C#\ders_2\bin\Debug\ders_2.pdb
+C:\Users\LENOVO\source\repos\C#\ders_2\obj\Debug\ders_2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\C#\ders_2\obj\Debug\ders_2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C#\ders_2\obj\Debug\ders_2.exe
+C:\Users\LENOVO\source\repos\C#\ders_2\obj\Debug\ders_2.pdb

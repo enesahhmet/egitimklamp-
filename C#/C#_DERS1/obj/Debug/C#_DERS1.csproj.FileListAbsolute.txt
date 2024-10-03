@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\C#\C#_DERS1\bin\Debug\C#_DERS1.exe.config
+C:\Users\LENOVO\source\repos\C#\C#_DERS1\bin\Debug\C#_DERS1.exe
+C:\Users\LENOVO\source\repos\C#\C#_DERS1\bin\Debug\C#_DERS1.pdb
+C:\Users\LENOVO\source\repos\C#\C#_DERS1\obj\Debug\C#_DERS1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\C#\C#_DERS1\obj\Debug\C#_DERS1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C#\C#_DERS1\obj\Debug\C#_DERS1.exe
+C:\Users\LENOVO\source\repos\C#\C#_DERS1\obj\Debug\C#_DERS1.pdb
